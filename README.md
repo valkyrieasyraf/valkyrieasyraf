@@ -1,6 +1,6 @@
-### Hello there, welcome to the GitHub Page by[valkyrieasyraf](https://github.com/valkyrieasyraf)
+### Hello there, thank you for visiting my GitHub Page, edited by [valkyrieasyraf](https://github.com/valkyrieasyraf)
 
-Current Project
+Github Projects
 </br>
 <details>
   <summary>Ongoing</summary>
@@ -8,6 +8,7 @@ Current Project
   - W6W, W6R, WM5 : Server Implementation
   - OpenParrot_6RR
   - TeknoParrotUI_6RR
+  - Artemis_III
   - and many more... 
 
 </details>
