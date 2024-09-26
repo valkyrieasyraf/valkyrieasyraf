@@ -3,13 +3,15 @@
 Github Projects
 </br>
 <details>
-  <summary>Ongoing</summary>
+  <summary>Deployment/WIP</summary>
 
   - W6W, W6R, WM5 : Server Implementation
   - OpenParrot_6RR
   - TeknoParrotUI_6RR
-  - Artemis_III
-  - and many more... 
+  - Artemis_III (WIP)
+  
+    and many more... 
+
 
 </details>
 
@@ -39,7 +41,7 @@ Github Projects
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kKsk03&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valkyrieasyraf&layout=compact)
 
 ### Blogging Site
 
