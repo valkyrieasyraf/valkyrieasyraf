@@ -3,7 +3,7 @@
 Current Project
 </br>
 <details>
-  <summary>最近做的事情</summary>
+  <summary>Ongoing</summary>
 
   - W6W, W6R, WM5 : Server Implementation
   - OpenParrot_6RR
