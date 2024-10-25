@@ -8,6 +8,7 @@ Github Projects
   - W6W, W6R, WM5 : Server Implementation
   - OpenParrot_6RR
   - TeknoParrotUI_6RR
+  - CustomTeknoParrotUI_WMMT_IDTA
   - Artemis_III (WIP)
   
     and many more... 
@@ -34,7 +35,6 @@ Github Projects
 ![.Net](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=.Net)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=androidstudio)
-![CLion](https://img.shields.io/badge/-CLion-black?style=flat-square&logo=clion)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-black?style=flat-square&logo=intellijidea)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
@@ -49,6 +49,6 @@ Github Projects
 
 ### Project Organisation Website
 
-<a href="https://fantasyw6w-server.network/" target="_blank">Fantasy W6W Server</a>
+<a href="https://fantasyserver.network/" target="_blank">Fantasy W6W Server</a>
 
 <a href="https://discord.gg/p53YrqfKzH" target="_blank">PixelCheeze's Discord Community Server</a>
